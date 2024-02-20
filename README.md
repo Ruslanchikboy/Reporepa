@@ -28,7 +28,7 @@ Guidelines for contributing to the project. Include information on how to submit
 
 ## License
 
-This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT)..
 
 ## Questions
 
